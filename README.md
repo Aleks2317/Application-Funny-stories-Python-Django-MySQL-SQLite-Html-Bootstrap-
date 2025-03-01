@@ -1,4 +1,4 @@
-# Приложение находится в стадии разработки (добоботки нового функционала) и несет ознакомительный характер.
+# Приложение находится в стадии разработки (дороботки нового функционала) и несет ознакомительный характер.
 [Funny Stories](https://funnystory.pythonanywhere.com/)
 
 # Application written in Python, Django, MySQL, SQLite, Html, Bootstrap
